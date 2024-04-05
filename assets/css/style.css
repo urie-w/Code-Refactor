@@ -30,11 +30,12 @@ body {
     font-size: 20px;
 }
 
-.header div ul {
+/*header nav ul*/
+.header nav ul {
     list-style-type: none;
 }
 
-.header div ul li {
+.header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
@@ -73,6 +74,7 @@ p {
     margin-left: 20px;
 }
 
+/*aside benefits*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
