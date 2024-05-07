@@ -6,7 +6,12 @@ The motivation for this project was revising the original code, so that it was m
 
 ## Usage
 
-This is still currently a mock up and should be used onlu to view for the time being. 
+This is still currently a mock up and should be used only to view for the time being. The navigation links are responsive. To acess the deployed website please follow the link below
+http://127.0.0.1:5500/index.html#social-media-marketing
+
+## Image
+![alt text](image.png)
+![alt text](image-1.png)
 
 ## Credits
 
